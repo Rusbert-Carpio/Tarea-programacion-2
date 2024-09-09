@@ -1,0 +1,14 @@
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\bin\Debug\net8.0\ShapesProject.exe
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\bin\Debug\net8.0\ShapesProject.deps.json
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\bin\Debug\net8.0\ShapesProject.runtimeconfig.json
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\bin\Debug\net8.0\ShapesProject.dll
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\bin\Debug\net8.0\ShapesProject.pdb
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.AssemblyInfoInputs.cache
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.AssemblyInfo.cs
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.csproj.CoreCompileInputs.cache
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.dll
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\refint\ShapesProject.dll
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.pdb
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ShapesProject.genruntimeconfig.cache
+C:\Users\carpi\OneDrive\Escritorio\Clases\Programacion\ShapesProject\obj\Debug\net8.0\ref\ShapesProject.dll
